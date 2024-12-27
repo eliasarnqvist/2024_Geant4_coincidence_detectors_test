@@ -1,0 +1,4 @@
+/home/elias/work/2024-12-21_geant4_test_coincidence/build/CMakeFiles/sim.dir
+/home/elias/work/2024-12-21_geant4_test_coincidence/build/CMakeFiles/Tutorial.dir
+/home/elias/work/2024-12-21_geant4_test_coincidence/build/CMakeFiles/edit_cache.dir
+/home/elias/work/2024-12-21_geant4_test_coincidence/build/CMakeFiles/rebuild_cache.dir
